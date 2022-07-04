@@ -8,6 +8,13 @@
     <link href="./assets/css/style.css" rel="stylesheet" />
 </head>
 <body>
-    <header>
-        <h1>Header</h1>
+<header>
+        <nav>
+            <ul>
+                <li><a href="index.php?page=accueil">Accueil</a></li>
+                <li><a href="index.php?page=articles">Articles</a></li>
+                <li><a href="index.php?page=inscription">Inscription</a></li>
+                <li><a href="index.php?page=login">Login</a></li>
+            </ul>
+        </nav>
     </header>
